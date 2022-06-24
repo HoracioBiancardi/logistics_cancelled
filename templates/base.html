@@ -1,0 +1,40 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <title>Cancelamento</title>
+  {% include 'parciais/_head.html' %}
+
+</head>
+
+<body>
+
+  {% include 'parciais/_nav.html' %}
+  {% include 'parciais/_sidenav.html' %}
+
+  <!-- Page Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        {%block conteudo%} {%endblock%}
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="{% static 'vendor/jquery/jquery.slim.min.js'%}"></script>
+  <script src="{% static 'vendor/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
+
+  <script src="{% static 'vendor/js/scripts.js'%}"></script>
+  <script src="{% static 'vendor/js/all.min.js'%}"></script>
+  <script src="{% static 'vendor/js/Chart.min.js'%}"></script>
+
+
+ 
+  </div>
+</body>
+
+{% include 'parciais/_chart_n_can.html' %}
+{% include 'parciais/_chart_can.html' %}
+</html>

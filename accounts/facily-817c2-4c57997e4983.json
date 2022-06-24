@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "facily-817c2",
+  "private_key_id": "4c57997e49835dd7e303488d16afbe1ea97bd907",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCP8OiPa/h29FmW\nHGxE+0wzmiHwPa0AZMB5aUFBmnJqust/NYWd6xMNEexmjSDFOm5c9mHgd5T1Qm/l\nuGVfHbNvKgc4GSkI5vnd4XcP5jCEyyDtJONaIpdrYoqcppRXNKCXACPUzptpg07I\nnrtAxGlDUWT8LybXTC62euwHJdmONnYciQsi17p1EwE0gC6pXhlr2FtGPoG6L5Ox\ny99n1R92aNP3QEdAa1CdsmWSbddpeCVHxKlqYXpMoq9PmW2yblh7ogRu6pTgP9bU\n0p88hwpNbSL13WM2lQR49dyDCDv5lM/pHWHZ4idwGnyQ8Edy6sxSFvImxbsKj3kc\nae5BfZ19AgMBAAECggEAFm7vb9reAHwYskJ/xUh9GdW90FlsaxFIxiNXXkgZ6PRv\n3sWSq4gFkhXnCByarOJsbOShYICCoK7YDa9tbSON4ZdlRKL3OEH3U1NeYQX5LdkS\nqqMDI/scKkpTXBLCL80t8hq9et8wbYNfdfj3KiLyXOGEoaEfppJi/WGvA3Ysr/Ml\nHQa933dpStW21/gay7Nd5CxF2yvFzqrgEP742+Q9uIMs0Youl3Uo5YSM4tZAGVl0\nPeyaQvLn/pQLmlaEqfDL2Vb5wgWA+t5p8MuZ8G5ZIx3RB5GzF+l8C1Py9ECX1Fl9\nwkDn+TLqaPIFi4ASUxVx9UjT5WFGvSgA0o7nuEnUQQKBgQDFml/wleUW2ZWOV26W\n4ru476X1kmvtMGYvWWaovJ08QPrIWEte2cUHfgPWaYvpVlsoH3ftTRU0WREOWbKo\nqO5KriP5xeA3FkkxNpBdCl6adAfjploxNteuyAb3CV1HL4X/HivHTErBYVM5Kw2d\n45V8zuxuNRQvde9ZA6jF2bxH2QKBgQC6er7PtJD43iJTSpKzmfeA1CqGzOVA0Iye\ni9mc21Ab1Wnmz0EZFWZDpJVI8l2e4jNBckQ1YjGU9wbSYF5l+/q4e5BPgpyDLK3k\nWOTnNtAF8ZVD/OJrp7Occ1Ox/VA5SiZsPmubmmbVy38q/3woDVvmumL6sL/UGpjb\ngi3TqQhARQKBgQCqUCI81JU9mpACvWz987Jk9XkPLgKDzuFkEiQfb2H+WutL3n4n\n5H6jtINOPG5w0ROEg4r0JyoNkm7W9Yy9Pc0U5P7w+xIDqNuw5RyMdLGRYkyic/Ds\n1h4T8Se/qHyTLGzLtI97GVCdWGtIrMjxuwRPLHIvkuQw++8tw6+lx8M2EQKBgQCn\nDcreG2475BNv9kBRsL5upKKsO+WsGKfAaJw7zqSHKrpCUKyKogcI1en+fVCtQwqT\nuJ+uCxdL0bhEwpwOVJuYpOj0sZcwU9g71f7JuurESFVloKfdtVBL+Wyi6MDzcZ/W\nHF0d+kXhhPmZNWKuJrmLirGczrYqduE00/vlv2lq2QKBgQDEI3hVEwypHOP3TD0P\ngWekXPC1CQVAtjvwBvSL7ISb59nGMRg1TRo49syjfdNKvlo1waQ7E0q5VaCDu8kl\nrmt0C69ixZcQCiv+BzAu1e3oLrOPr9GcIShHg2vnOk5BFf2yyL4W4Lt7xkyIsd9Z\nNQwjJ1qSLasAGRDgsbN8YK5WoQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "report-logistic@facily-817c2.iam.gserviceaccount.com",
+  "client_id": "102554731638879520866",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/report-logistic%40facily-817c2.iam.gserviceaccount.com"
+}

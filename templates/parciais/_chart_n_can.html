@@ -1,0 +1,55 @@
+<script>
+ 
+// Set new default font family and font color to mimic Bootstrap's default styling
+Chart.defaults.global.defaultFontFamily = '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
+Chart.defaults.global.defaultFontColor = '#292b2c';
+
+// Bar Chart Example
+var ctx = document.getElementById("n_cancelamento");
+var myLineChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: {{ data_n_can|safe }},
+
+datasets: [
+
+{
+    label: "Pedido Enviado p/ Cancelamento",
+    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+    borderColor: 'rgb(54, 162, 235)',
+    borderWidth: 1,
+    data: {{ pedido_n_can | safe }},
+}
+
+
+],
+},
+
+options: {
+    responsive: true,
+    scales: {
+        xAxes: [{
+            time: {
+                unit: 'data'
+            },
+            gridLines: {
+                display: false
+            }
+
+        }],
+            yAxes: [{
+                gridLines: {
+                    display: true
+                },
+            }],
+    },
+    legend: {
+        display: false
+    }
+}
+});
+
+
+
+
+</script>
